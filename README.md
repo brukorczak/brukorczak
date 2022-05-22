@@ -1,7 +1,7 @@
 ### Olá!! me chamo Bruna
 
-- 🌱 atualmente estudando JAVA, HTML e CSS
-- 😄 Pronouns: ela/dela
+- 🌱 atualmente estudando JAVA, HTML e CSS.
+- 😄 Pronouns: ela/dela.
 
 <div align="center">
   <a href="https://github.com/brukorczak">
