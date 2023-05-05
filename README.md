@@ -1,6 +1,6 @@
 ### Olá!! me chamo Bruna
 
-- 🌱 atualmente estudando C#,JAVA.
+- 🌱 atualmente estudando C#, ANDROID, JAVA e SQL.
 - 😄 Pronouns: ela/dela.
 
 <div align="center">
