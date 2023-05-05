@@ -1,6 +1,6 @@
 ### Olá!! me chamo Bruna
 
-- 🌱 atualmente estudando C#, JavaScript, HTML, CSS E JAVA.
+- 🌱 atualmente estudando C#,JAVA.
 - 😄 Pronouns: ela/dela.
 
 <div align="center">
@@ -16,7 +16,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="ANDROID" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   
 </div> 
   
