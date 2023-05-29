@@ -1,7 +1,8 @@
 ### Olá!! me chamo Bruna
 
-- 🌱 atualmente estudando PYTHON, C#, desenvolvimento mobile com Java no Android Studio e SQL.
+- 💻 atualmente estou aprendendo PYTHON, C#, desenvolvimento mobile com Java no Android Studio e SQL.
 - 😄 Pronouns: ela/dela.
+- 🚀 Inicio de jornada Dezembro/21.
 
 <div align="center">
   <a href="https://github.com/brukorczak">
