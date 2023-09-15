@@ -1,6 +1,6 @@
 ### Olá!! me chamo Bruna
 
-- 💻 atualmente estou aprendendo PYTHON, C#, desenvolvimento mobile com Java no Android Studio e SQL.
+- 💻 atualmente estou aprendendo PYTHON, React, NodeJS e Angular.
 - 🚀 Inicio de jornada Dezembro/21.
   
 <div align="center">
