@@ -1,4 +1,7 @@
-### Olá!! me chamo Bruna
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e75b6&size=35&center=true&vCenter=true&width=1000&lines=+Ola!!+Prazer,+Bruna+Korczak.+:%29)](https://git.io/typing-svg)
+
+#
 
 - 💻 atualmente estou aprendendo PYTHON, JAVA, React, NodeJS e Angular.
 - 🚀 Inicio de jornada Dezembro/21.
