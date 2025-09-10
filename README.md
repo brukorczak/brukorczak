@@ -5,7 +5,7 @@
 - 🚀 Início de jornada Dezembro/21.
 - 💼 Atualmente trabalhando com React, Node.js, Jest, DBeaver.
 - 💻 Sempre aprendendo novas tecnologias como Java, Angular, Python e Node.js.
-- 👩‍🎓 Cursando Bacharelado em Ciência da Computação (3º/8 semestre).
+- 👩‍🎓 Cursando Bacharelado em Ciência da Computação (4º/8 semestre).
   
 <div align="center">
   <a href="https://github.com/brukorczak">
